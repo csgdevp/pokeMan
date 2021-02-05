@@ -1,0 +1,8 @@
+.pokeman {
+  display: inline-block;
+  text-align: center;
+}
+
+.pokeman img {
+  display: block;
+}
